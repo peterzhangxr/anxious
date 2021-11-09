@@ -1,0 +1,19 @@
+{
+  "name": "anxious",
+  "version": "1.0.0",
+  "description": "Mobile UI Components built on Vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ui",
+    "vue",
+    "fronted",
+    "mobile",
+    "component",
+    "components"
+  ],
+  "author": "peterzhangxr",
+  "license": "MIT"
+}
